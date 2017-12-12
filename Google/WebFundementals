@@ -1,0 +1,28 @@
+toc :
+
+- title : "เริ่มต้นใช้งาน"
+  เส้นทาง : / web / tools / workbox / guides / get-started
+- ชื่อเรื่อง : "ไฟล์ Precache "
+  เส้นทาง : / เว็บ / เครื่องมือ / กล่องงาน / คู่มือ / ไฟล์ precache
+- ชื่อเรื่อง : "ขอเส้นทาง"
+  เส้นทาง : / เว็บ / เครื่องมือ / กล่องงาน / คำแนะนำ / เส้นทางการร้องขอ
+- title : "กำหนดค่า Workbox "
+  เส้นทาง : / เว็บ / เครื่องมือ / กล่องงาน / คู่มือ / configure-workbox
+- title : "จัดการคำขอของบุคคลที่สาม"
+  เส้นทาง : / web / tools / workbox / guides / handle-third-party-requests
+# - title: "สร้างและใช้ปลั๊กอิน"
+#   path: / web / tools / workbox / guides / build-and-use-plugins
+- ชื่อเรื่อง : " Common Recipes "
+  เส้นทาง : / web / tools / workbox / guides / common-recipes
+- title : "เปิดใช้ Google Analytics แบบออฟไลน์"
+  เส้นทาง : / web / tools / workbox / guides / enable-offline-analytics
+- ชื่อเรื่อง : " Troubleshoot and Debug "
+  เส้นทาง : / web / tools / workbox / guides / แก้ไขปัญหาและแก้ปัญหา
+# - title: "สร้างพนักงานบริการที่สมบูรณ์แบบ"
+#   path: / web / tools / workbox / guides / generate-complete-sw
+# - title: "โยกย้ายจาก sw- <กล่องเครื่องมือ | precache>"
+#   path: / web / tools / workbox / guides / migrate
+# - title: "ใช้เป็น ES2015 นำเข้า"
+#   path: / web / tools / workbox / guides / use-es2015- การนำเข้า
+- title : " Service Checker ของพนักงานบริการ"
+  เส้นทาง : / เว็บ / เครื่องมือ / กล่องงาน / คู่มือ / รายการตรวจสอบการบริการ
